@@ -3,5 +3,5 @@
 
 Me llamo **Ezequiel** y trabajo en **AireNuevo Unahur**
 
-![foto]("eze.jpg")
+![foto](eze.jpg)
 
